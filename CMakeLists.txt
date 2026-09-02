@@ -11,7 +11,7 @@ include(CMake/lus-cvars.cmake)
 set(SPDLOG_LEVEL_TRACE 0)
 set(SPDLOG_LEVEL_OFF 6)
 set(SPDLOG_MIN_CUTOFF SPDLOG_LEVEL_TRACE CACHE STRING "cutoff at trace")
-set(PROJECT_BUILD_NAME "Battler Alfa" CACHE STRING "" FORCE)
+set(PROJECT_BUILD_NAME "Battler Bravo" CACHE STRING "" FORCE)
 set(PROJECT_TEAM "github.com/harbourmasters" CACHE STRING "" FORCE)
 
 execute_process(
