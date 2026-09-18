@@ -1,10 +1,10 @@
 [submodule "libultraship"]
 	path = libultraship
-	url = https://github.com/reflex909/libultraship.git
+	url = https://github.com/starshopper612/libultraship.git
 	branch = gyro-rumble-fix
 [submodule "OTRExporter"]
 	path = OTRExporter
-	url = https://github.com/reflex909/OTRExporter.git
+	url = https://github.com/starshopper612/OTRExporter.git
 [submodule "ZAPDTR"]
 	path = ZAPDTR
-	url = https://github.com/reflex909/ZAPDTR.git
+	url = https://github.com/starshopper612/ZAPDTR.git
