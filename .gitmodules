@@ -1,7 +1,7 @@
 [submodule "libultraship"]
 	path = libultraship
-	url = https://github.com/reflex909/libultraship.git
-	branch = gyro-rumble-fix
+	url = https://github.com/starshopper612/libultraship.git
+	branch = deko3d-backend
 [submodule "OTRExporter"]
 	path = OTRExporter
 	url = https://github.com/reflex909/OTRExporter.git
