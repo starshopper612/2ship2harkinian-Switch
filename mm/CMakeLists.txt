@@ -679,6 +679,7 @@ nx_generate_nacp(2s2h.nacp
 nx_create_nro(2ship
     NACP 2s2h.nacp
     ICON ${CMAKE_CURRENT_SOURCE_DIR}/switch/2s2hIcon.png
+    ROMFS ${CMAKE_CURRENT_SOURCE_DIR}/switch/romfs
 )
 
 INSTALL(FILES ${CMAKE_CURRENT_BINARY_DIR}/2s2h.nro DESTINATION . COMPONENT 2s2h)
